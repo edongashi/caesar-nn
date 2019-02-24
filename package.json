@@ -1,0 +1,15 @@
+{
+  "name": "caesar-nn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "train.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edon Gashi",
+  "license": "MIT",
+  "dependencies": {
+    "brain.js": "^1.6.1",
+    "lodash": "^4.17.11"
+  }
+}
