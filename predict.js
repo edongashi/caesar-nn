@@ -12,7 +12,7 @@ function predict(str) {
     .map(([p, key]) => ({
       text: decrypt(str, key),
       key,
-      probability: (Math.round(10000 * p) / 100) + '%'
+      confidence: (Math.round(10000 * p) / 100) + '%'
     }))
     .value()
 }

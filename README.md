@@ -23,13 +23,13 @@ Outputs:
 [ { text:
      'Takimi mbahet te shtunen pasdite ne afersi te shtepise sime.',
     key: 7,
-    probability: '91.35%' },
+    confidence: '91.35%' },
   { text:
      'Elvtxt xmlspe ep dsefypy aldotep yp lqpcdt ep dsepatdp dtxp.',
     key: 22,
-    probability: '3.37%' },
+    confidence: '3.37%' },
   { text:
      'Szjhlh lazgds sd rgstmdm ozrchsd md zedqrh sd rgsdohrd rhld.',
     key: 8,
-    probability: '3.13%' } ]
+    confidence: '3.13%' } ]
 ```
